@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mansurov Ne'matulloh...</h1>
+<h1 align="center">Hi 👋, I'm Xusanboyev Ibrohim...</h1>
 <h3 align="center">Frontend Developer from Uzbekistan.</h3>
 
 ---
@@ -11,6 +11,6 @@
 ---
 
 ### 🔗 Let's connect
-- 📬 [Telegram](https://t.me/NematullohM) &nbsp; 📸 [Instagram](https://www.instagram.com/mansurvv710/?hl=ru) &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 📝 [Teletype blog](https://teletype.in/@nematulloh) &nbsp; 🌐 [Portfolio](https://portfolio1398.vercel.app/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/users/Nematulloh)
+- 📬 [Telegram](https://t.me/Xusanboyevv01) &nbsp; 📸 [Instagram](https://www.instagram.com/xusanboyevvv01/) &nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ibrohim-xusanboyev-5384ba416/) &nbsp;  🧠 [LeetCode](https://leetcode.com/u/ibrohim1122/) &nbsp; 🧩 [Codewars](https://www.codewars.com/users/Ibrohim_Xusanboyev)
 
 ---
