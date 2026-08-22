@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ibrohim+Xusanboyev;💻+I'm+a+Frontend+Developer+from+Uzbekistan.)](https://git.io/typing-svg)
-<h3 align="center">Frontend Developer from Uzbekistan.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Ibrohim+Xusanboyev;💻+I+am+Frontend+Developer+from+Uzbekistan)](https://git.io/typing-svg)
+
 
 ---
 
