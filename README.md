@@ -1,48 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=IBROHIM%20XUSANBOYEV&fontSize=42&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=60&color=gradient" width="100%"/>
+# ⚡ IBROHIM XUSANBOYEV
 
-### ⚡ `FULL-STACK DEVELOPER` ⚡
+### `FULL-STACK DEVELOPER`
 
-**Building • Scaling • Shipping**
+**Building modern web applications & scalable backend systems.**
 
-<br/>
+<br>
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,postman" />
 
-<br/><br/>
+<br><br>
 
-![GitHub followers](https://img.shields.io/github/followers/Xusanboyevv01?style=for-the-badge\&logo=github\&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/Xusanboyevv01?style=for-the-badge\&logo=github\&label=STARS)
-![Profile Views](https://komarev.com/ghpvc/?username=Xusanboyevv01\&style=for-the-badge\&label=PROFILE+VIEWS)
+### ⚙️ ENGINEERING
 
----
+`Frontend` • `Backend` • `REST API` • `Database` • `Authentication` • `Clean Code`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Xusanboyevv01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xusanboyevv01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<br>
 
-<br/>
+### 🚀 STACK
 
-<img src="https://streak-stats.demolab.com?user=Xusanboyevv01&theme=tokyonight&hide_border=true" width="70%"/>
+**JavaScript** · **React** · **Node.js** · **Express.js** · **MongoDB**
 
----
+<br>
 
-### 🏆 ACHIEVEMENTS
+`BUILD` → `TEST` → `DEPLOY` → `SCALE`
 
-<img src="https://github-profile-trophy.vercel.app/?username=Xusanboyevv01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="90%"/>
+<br><br>
 
----
-
-### 🔥 CONTRIBUTIONS
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xusanboyevv01&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-<br/>
-
-**`CODE` → `BUILD` → `SHIP` → `REPEAT`**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Xusanboyevv01)
 
 </div>
