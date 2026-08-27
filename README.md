@@ -1,22 +1,23 @@
-# Ibrohim Xusanboyev
+<div align="center">
 
-### Senior Full-Stack Developer 🇺🇿
+# IBROHIM XUSANBOYEV
 
-**Backend Engineer · Frontend Engineer · Software Architect**
+### `FULL-STACK DEVELOPER` ⚡
 
-Designing and building **scalable, high-performance web applications, REST APIs, and production-ready systems.**
+**I build things that actually work.**
 
-**Stack:**
-`JavaScript` · `React` · `Node.js` · `Express.js` · `MongoDB` · `REST API` · `Git`
+<br/>
 
-**Engineering:**
-`Clean Architecture` · `Scalable Systems` · `Authentication` · `Database Design` · `API Development`
+`React` · `Node.js` · `Express` · `MongoDB` · `JavaScript`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xusanboyevv01&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xusanboyevv01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <b>Building software. Solving problems. Engineering for scale.</b>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/Xusanboyevv01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin)](https://linkedin.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge\&logo=telegram)](https://t.me/)
+
+<br/>
+
+`CODE` → `BUILD` → `SHIP` → `REPEAT`
+
+</div>
