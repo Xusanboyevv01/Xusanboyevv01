@@ -15,7 +15,12 @@
 <img src="https://komarev.com/ghpvc/?username=Xusanboyevv01&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Xusanboyevv01/Xusanboyevv01/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 ---
 
 ## ⚡ About
