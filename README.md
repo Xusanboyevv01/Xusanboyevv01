@@ -1,24 +1,22 @@
-# 👋 Ibrohim Xusanboyev
+# Ibrohim Xusanboyev
 
-### Full-Stack Developer 🇺🇿
+### Senior Full-Stack Developer 🇺🇿
 
-> Building modern, scalable and reliable web applications.
+**Backend Engineer · Frontend Engineer · Software Architect**
 
-**Frontend:** React.js · JavaScript · HTML · CSS
-**Backend:** Node.js · Express.js · MongoDB
-**Tools:** Git · GitHub · Postman · VS Code
+Designing and building **scalable, high-performance web applications, REST APIs, and production-ready systems.**
 
-### 🚀 Focus
+**Stack:**
+`JavaScript` · `React` · `Node.js` · `Express.js` · `MongoDB` · `REST API` · `Git`
 
-Clean Code · REST APIs · Authentication · Databases · Full-Stack Development
-
-### 📊 GitHub
+**Engineering:**
+`Clean Architecture` · `Scalable Systems` · `Authentication` · `Database Design` · `API Development`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xusanboyevv01&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xusanboyevv01&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xusanboyevv01&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xusanboyevv01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-### 🌐 Connect
-
-[Telegram](https://t.me/) · [Instagram](https://instagram.com/) · [LinkedIn](https://linkedin.com/) · [LeetCode](https://leetcode.com/) · [Codewars](https://www.codewars.com/)
+<p align="center">
+  <b>Building software. Solving problems. Engineering for scale.</b>
+</p>
