@@ -1,33 +1,29 @@
 <div align="center">
 
-# ⚡ IBROHIM XUSANBOYEV
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=IBROHIM%20XUSANBOYEV&fontSize=42&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=60&color=gradient" width="100%"/>
 
-### `FULL-STACK DEVELOPER`
+# ⚡ FULL-STACK DEVELOPER
 
-**Building modern web applications & scalable backend systems.**
+### Building • Engineering • Shipping
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,postman,vscode" />
 
 <br><br>
 
-### ⚙️ ENGINEERING
-
-`Frontend` • `Backend` • `REST API` • `Database` • `Authentication` • `Clean Code`
-
-<br>
-
-### 🚀 STACK
-
-**JavaScript** · **React** · **Node.js** · **Express.js** · **MongoDB**
-
-<br>
-
-`BUILD` → `TEST` → `DEPLOY` → `SCALE`
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Xusanboyevv01)
+<img src="https://komarev.com/ghpvc/?username=Xusanboyevv01&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
+
+---
+
+## ⚡ About
+
+```text
+Full-Stack Developer focused on building
+modern, scalable and production-ready applications.
+
+Frontend → React / JavaScript
+Backend  → Node.js / Express
+Database → MongoDB
